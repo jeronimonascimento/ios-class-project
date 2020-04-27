@@ -11,7 +11,7 @@ Caminho da api para comentários: "https://jsonplaceholder.typicode.com/posts/{p
 
 ## ATENÇÃO:
 1. Para realização do teste, crie um fork do mesmo.<br/>
-2. Após finalizar seu teste, dê um feedback para que possa ser criada <p>uma branch exclusiva</p> para sua avaliação.<br/>
+2. Após finalizar seu teste, dê um feedback para que possa ser criada <b>uma branch exclusiva</b> para sua avaliação.<br/>
 3. Crie um pull request para a branch exclusiva.
 
 ## OBRIGATORIEDADES:
