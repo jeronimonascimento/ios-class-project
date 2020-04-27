@@ -19,7 +19,7 @@ Boas práticas com padrões em desenvolvimento de software.<br/>
 Conhecimento em consumo de APIs (REST) - Alamofire (preferencial) ou semelhante.<br/>
 Arquitetura - MVP (preferencial) ou semelhante.<br/>
 Utilizar Swift language.<br/>
-Utilizar Cocoapods.
+Utilizar Cocoapods.<br/>
 Domínio em técnicas do Google Material Design/Components.<br/>
 Seguir como exemplos de UI e conteúdo no diretório /class project.<br/>
 <br/><br/>
