@@ -1,0 +1,6 @@
+framework module Pods_Teste_Jeronimo {
+  umbrella header "Pods-Teste Jeronimo-umbrella.h"
+
+  export *
+  module * { export * }
+}
